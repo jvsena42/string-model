@@ -1,0 +1,65 @@
+<resources>
+	<!-- Created by: João Victor Sena
+		GitHub:jvsena42
+		Linkedin: jnsena-eng
+	-->
+		
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    	
+	<!-- Textos comuns -->
+    <string name="general_name">Nome</string>
+    <string name="general_email">E-mail</string>
+	<string name="general_password">Senha</string>
+	<string name="general_confirm_password">Confirme sua senha</string>
+	<string name="general_phone">Telefone</string>
+	<string name="general_celphone">Celular</string>
+	<string name="general_number">Número</string>
+	<string name="general_send">Enviar</string>
+	<string name="general_dont_you_have_an_account">Não tem conta?</string>
+	<string name="general_sign_in">Cadastre-se</string>
+	<string name="general_login">Login</string>
+	<string name="general_logout">Sair</string>
+	<string name="general_register">Cadastrar</string>
+	<string name="general_confirm">Confirmar</string>
+	<string name="general_search">Pesquisar</string>
+	<string name="general_filter_by">Filtrar por</string>
+	<string name="general_history">Histórico</string>
+	<string name="general_profile">Perfil</string>
+	<string name="token">Token</string>
+
+    <!-- Mensagens de Erro -->
+    <string name="error_invalid_name">Digite o seu Nome!</string>
+    <string name="error_empty_message">Mensagem vazia</string>
+    <string name="error_invalid_email">E-mail inválido!</string>
+    <string name="error_invalid_phone">Número inválido!</string>
+    <string name="error_invalid_password">Senha inválida!</string>
+    <string name="error_invalid_postal_code">Cep inválido!</string>
+    <string name="error_invalid_token">Digite o token!</string>
+    <string name="error_empty_adress">Informe o endereço!</string>
+    <string name="error_empty_number_adress">Informe o número!</string>
+    <string name="error_empty_password">Digite sua senha!</string>
+    <string name="error_empty_birthdate">Digite a sua Data de Nascimento!</string>
+    <string name="error_empty_cpf">Digite o seu CPF!</string>
+    <string name="error_empty_password_confirm_new_register">Digite sua nova senha!</string>
+	<string name="error_empty_field">Preencha todos os campos</string>
+    <string name="error_incompatible_password">Senhas Incompatíveis!</string>
+	<string name="error_unexpected">Um erro inesperado ocorreu. Tente novamente mais tarde</string>
+    <string name="error_autorize_permissions">Para utilizar esta função, é necessário autorizar as permissões</string>
+	
+	<!-- Mensagens de Sucesso -->
+	<string name="success_save_data">Dados salvos com sucesso!</string>
+    <string name="success_send_email">Email enviado com sucesso!</string>
+    <string name="success_update_password">Senha atualizada com sucesso!</string>
+    <string name="success_update_number">Número atualizado com sucesso!</string>
+    <string name="success_update_email">E-mail atualizado com sucesso!</string>
+    <string name="success_save_image">Imagem salva com sucesso!</string> 
+    <string name="success_update_image">Imagem atualizada com sucesso!</string> 
+    <string name="success_update_data">Dados alterados com sucesso!</string> 
+    <string name="token_sended_to_the_email">Token enviado para o email </string>
+	
+	
+	<string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed volutpat facilisis porta. In interdum libero vel nisl mollis iaculis. Phasellus id consequat elit, sed gravida enim. Suspendisse hendrerit volutpat rutrum. Nullam finibus ut eros eget iaculis. Praesent lacus ex, cursus et finibus nec, vehicula eu odio. Suspendisse dictum sem id ligula hendrerit euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur tincidunt libero eget elementum dignissim. Quisque magna orci, rutrum at egestas nec, sollicitudin at ex. Aenean id rhoncus ipsum. Mauris rutrum felis quis sapien faucibus pulvinar. Donec egestas molestie erat, sit amet sagittis lacus maximus nec. Vivamus a arcu nunc. \n\nmCurabitur a dictum neque. Curabitur ultrices nisi libero, ut euismod mauris finibus eget. Cras ultrices ipsum cursus, placerat diam nec, feugiat lectus. Cras mattis rhoncus mauris et cursus. Etiam elementum neque a fermentum pretium. Vestibulum fermentum condimentum libero consequat sollicitudin. Interdum et malesuada fames ac ante ipsum primis in faucibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam mi sem, dignissim ac orci vel, malesuada vulputate dolor. Integer ornare vitae dolor quis dapibus. Mauris viverra leo at tristique iaculis. \n\n\nNunc in dui euismod, tempor metus ac, consectetur lectus. Aliquam leo sem, tincidunt eu faucibus quis, vestibulum a lacus. Praesent porta condimentum nulla, vel sodales augue tempor ac. In ornare, elit nec scelerisque hendrerit, orci mi volutpat felis, ac tempor ex elit eget magna. Donec nec urna sit amet tellus euismod ornare. Aenean condimentum sapien id augue fringilla, non semper nisl venenatis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas posuere condimentum elementum. Nulla venenatis congue risus nec ornare. \n\n\nAliquam erat volutpat. Donec sed tempor lorem. Ut augue dolor, faucibus at orci eget, lacinia fringilla dui. Pellentesque id tincidunt dolor, quis finibus lectus. Morbi convallis sollicitudin est, id vulputate eros sagittis in. Nam metus lacus, pretium ut lectus ac, rhoncus aliquet ipsum. Nunc cursus fringilla massa sit amet fermentum. Praesent neque ante, iaculis et magna eget, dignissim pharetra nisi. Mauris gravida lorem in metus elementum efficitur. Donec auctor condimentum ligula non fermentum. Curabitur semper turpis nec turpis tristique efficitur. Praesent ex neque, tincidunt aliquam dolor vitae, sollicitudin elementum magna. \n\n\nNulla consectetur lacinia lacinia. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum tincidunt massa est, sed pretium risus mollis at. Pellentesque ultrices lorem eu leo laoreet, bibendum iaculis purus luctus. Nullam feugiat felis vitae diam condimentum, id iaculis erat mollis. Integer varius tortor condimentum dui consectetur pellentesque. Vestibulum quis lectus a nibh porttitor imperdiet eu ac enim. Nunc libero ex, efficitur vitae maximus in, blandit vel purus. Suspendisse sit amet dolor nulla. Nullam a augue tempor, porta ante volutpat, dictum purus. Nunc dictum eleifend auctor. Donec facilisis nulla eu tellus eleifend pretium. Nam sodales tortor sit amet est luctus, id aliquam ipsum consectetur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque suscipit augue eu sem ullamcorper, a pharetra justo efficitur.</string>
+
+
+</resources>
