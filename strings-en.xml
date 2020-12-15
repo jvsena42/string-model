@@ -18,7 +18,7 @@
 	<string name = "general_number">Number</string>
 	<string name = "general_submit">Submit</string>
 	<string name = "general_send">Enviar</string>
-	<string name = "general_dont_you_have_an_account">Don't have an account?</string>
+	<string name = "general_dont_you_have_an_account">Don't you have an account?</string>
 	<string name = "general_sign_up">Sign up</string>
 	<string name = "general_login">Login</string>
 	<string name = "general_logout">Logout</string>
