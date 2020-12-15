@@ -1,0 +1,63 @@
+<resources>
+	<!--
+	Created by: João Victor Sena
+	GitHub:jvsena42
+	Linkedin: jnsena42
+	-->
+		
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    	
+	<! - Textos comuns ->
+	<string name = "general_name">Nombre</string>
+	<string name = "general_email">Correo electrónico</string>
+	<string name = "general_password">Contraseña</string>
+	<string name = "general_confirm_password">Confirme su contraseña</string>
+	<string name = "general_phone">Teléfono</string>
+	<string name = "general_celphone">Celular</string>
+	<string name = "general_number">Número</string>
+	<string name = "general_submit">Enviar</string>
+	<string name = "general_send">Enviar</string>
+	<string name = "general_dont_you_have_an_account">¿No tienes cuenta?</string>
+	<string name = "general_sign_up">Registrarse</string>
+	<string name = "general_login">Iniciar sesión</string>
+	<string name = "general_logout">Cerrar sesión</string>
+	<string name = "general_register">Registrarse</string>
+	<string name = "general_confirm">Confirmar</string>
+	<string name = "general_search">Buscar</string>
+	<string name = "general_filter_by">Filtrar por</string>
+	<string name = "general_history">historial</string>
+	<string name = "general_profile">Perfil</string>
+	<string name = "token">Token</string>
+	
+    <!-- Mensagens de Erro -->
+	<string name = "error_invalid_name">Nombre inválido</string>
+    <string name = "error_empty_message">Mensaje  en blanco, ingrese su mensaje</string>
+    <string name = "error_invalid_email"> ¡Correo electrónico no válido! </string>
+    <string name = "error_invalid_phone"> ¡Número de teléfono no válido! </string>
+    <string name = "error_invalid_password"> ¡Contraseña no válida! </string>
+    <string name = "error_invalid_postal_code"> ¡Código postal no válido! </string>
+    <string name = "error_empty_token"> ¡Ingrese el token! </string>
+    <string name = "error_empty_adress">¡Dirección en blanco, ingrese su dirección!</string>
+    <string name = "error_empty_number_adress"> ¡Ingrese el número de dirección! </string>
+    <string name = "error_empty_password"> ¡Contraseña en blanco, ingrese su contraseña! </string>
+    <string name = "error_empty_birthdate"> ¡Fecha de nacimiento en blanco, ingrese su fecha de nacimiento! </string>
+    <string name = "error_empty_cpf"> ¡Ingrese un CPF brasileño! </string>
+    <string name = "error_empty_password_confirm_new_register"> ¡Ingrese su nueva contraseña! </string>
+	<string name = "error_empty_field"> Complete todos los campos </string>
+    <string name = "error_incompatible_password"> ¡Contraseñas incompatibles! </string>
+	<string name = "error_unexpected"> Se ha producido un error inesperado. Vuelve a intentarlo más tarde </string>
+    <string name = "error_autorize_permissions"> Para usar esta función, es necesario autorizar los permisos </string>
+	
+	<! - Success Messages ->
+	<string name = "success_save_data"> ¡Datos enviados con éxito! </string>
+    <string name = "success_send_email"> ¡Gracias! Su mensaje ha sido enviado con éxito </string>
+    <string name = "success_update_password"> Su contraseña se ha actualizado correctamente </string>
+    <string name = "success_update_number"> Su número de teléfono se ha actualizado correctamente </string>
+    <string name = "success_update_email"> ¡Gracias! Su correo electrónico se ha actualizado con éxito </string>
+    <string name = "success_save_image"> Su mensaje se ha enviado con éxito </string>
+    <string name = "success_update_image"> Su imagen se ha actualizado con éxito </string>
+    <string name = "success_update_data"> ¡Los datos se cambiaron con éxito! </string>
+    <string name = "token_sent_to_the_email"> El token se ha enviado al correo electrónico </string>
+
+</resources>
