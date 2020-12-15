@@ -1,0 +1,63 @@
+<resources>
+	<!--
+	Created by: João Victor Sena
+	GitHub:jvsena42
+	Linkedin: jnsena-eng
+	-->
+		
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    	
+	<!-- Textos comuns -->
+	<string name = "general_name">Name</string>
+	<string name = "general_email">Email</string>
+	<string name = "general_password">Password</string>
+	<string name = "general_confirm_password">Confirm your password</string>
+	<string name = "general_phone"> Phone </string>
+	<string name = "general_celphone">Celphone</string>
+	<string name = "general_number">Number</string>
+	<string name = "general_submit">Submit</string>
+	<string name = "general_send">Enviar</string>
+	<string name = "general_dont_you_have_an_account">Don't have an account?</string>
+	<string name = "general_sign_up">Sign up</string>
+	<string name = "general_login">Login</string>
+	<string name = "general_logout">Logout</string>
+	<string name = "general_register">Register</string>
+	<string name = "general_confirm">Confirm</string>
+	<string name = "general_search">Search</string>
+	<string name = "general_filter_by">Filter by</string>
+	<string name = "general_history">History</string>
+	<string name = "general_profile">Profile</string>
+	<string name = "token">Token</string>
+	
+    <!-- Mensagens de Erro -->
+	<string name = "error_invalid_name">Enter your name</string>
+    <string name = "error_empty_message">Empty message</string>
+    <string name = "error_invalid_email">Invalid email!</string>
+    <string name = "error_invalid_phone">Invalid phone number!</string>
+    <string name = "error_invalid_password">Invalid password!</string>
+    <string name = "error_invalid_postal_code">Invalid postal code!</string>
+    <string name = "error_empty_token">Enter the token!</string>
+    <string name = "error_empty_adress">Enter the address!</string>
+    <string name = "error_empty_number_adress">Enter the address number!</string>
+    <string name = "error_empty_password">Enter your password!</string>
+    <string name = "error_empty_birthdate">Enter your birthdate!</string>
+    <string name = "error_empty_cpf">Enter your SSN!</string>
+    <string name = "error_empty_password_confirm_new_register">Enter your new password!</string>
+	<string name = "error_empty_field">Fill in all the fields</string>
+    <string name = "error_incompatible_password">Incompatible passwords!</string>
+	<string name = "error_unexpected">An unexpected error has occurred. Try again later</string>
+    <string name = "error_autorize_permissions">To use this function, it is necessary to grant the permissions</string>
+	
+	<! - Success Messages ->
+	<string name = "success_save_data">Data successfully submitted!</string>
+    <string name = "success_send_email">Thank you! Your message has been successfully sent</string>
+    <string name = "success_update_password">Your password has been successfully updated</string>
+    <string name = "success_update_number">Your phone number has been successfully updated</string>
+    <string name = "success_update_email">Thank you! Your E-mail has been successfully updated</string>
+    <string name = "success_save_image">Your message has been successfully submitted</string>
+    <string name = "success_update_image">Your image has been successfully updated</string>
+    <string name = "success_update_data">Data changed successfully!</string>
+    <string name = "token_sent_to_the_email">The token has been sent to the email</string>
+
+</resources>
