@@ -1,0 +1,63 @@
+<resources>
+	<!--
+	Created by: João Victor Sena
+	GitHub:jvsena42
+	Linkedin: jnsena42
+	-->
+		
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    	
+	<!-- Textos comuns --> 
+	<string name="general_name">Nom</string> 
+	<string name="general_email">E-mail</string> 
+	<string name="general_password">Mot de passe</string> 
+	<string name="general_confirm_password">Confirmer votre mot de passe</string> 
+	<string name="general_phone">Téléphone</string> 
+	<string name="general_celphone">Téléphone Portable</string> 
+	<string name="general_number">Numéro</string> 
+	<string name="general_submit">Envoyer</string> 
+	<string name="general_send">Envoyer</string> 
+	<string name="general_dont_you_have_an_account">Pas de compte?</string> 
+	<string name="general_sign_up">S’inscrire</string> 
+	<string name="general_login">S’indentifier</string> 
+	<string name="general_logout">Sortez</string> 
+	<string name="general_register">S’inscrire</string> 
+	<string name="general_confirm">Confirmer</string> 
+	<string name="general_search">Rechecherr</string> 
+	<string name="general_filter_by">Filtrer par</string> 
+	<string name="general_history">Historique</string> 
+	<string name="general_profile">Profil</string> 
+	<string name="token">Token</string> 
+ 
+	<!-- Mensagens de Erro --> 
+	<string name="error_invalid_name">Entrez votre nom!</string> 
+	<string name="error_empty_message">Message vide</string> 
+	<string name="error_invalid_email">E-mail invalide!</string> 
+	<string name="error_invalid_phone">Numéro invalide!</string> 
+	<string name="error_invalid_password">Mot de passe invalide!</string> 
+	<string name="error_invalid_postal_code">Code postal invalide!</string> 
+	<string name="error_empty_token">Entrez le token!</string> 
+	<string name="error_empty_adress">Informer l’adresse!</string> 
+	<string name="error_empty_number_adress">Informer le numéro!</string> 
+	<string name="error_empty_password">Entrez votre mot de passe!</string> 
+	<string name="error_empty_birthdate">Entrez votre date de naissance!</string> 
+	<string name="error_empty_cpf">Entrez votre CPF!</string> 
+	<string name="error_empty_password_confirm_new_register">Entrez votre nouveau mot de passe!</string> 
+	<string name="error_empty_field">Rempli tout les champs</string> 
+	<string name="error_incompatible_password">Mot de passe incompatible!</string> 
+	<string name="error_unexpected">Eu lieu une erreur inattendu. Réessayer plus tard</string> 
+	<string name="error_autorize_permissions">Pour utiliser cette fonction, il est nécessaire autoriser les permissions</string> 
+	  
+	<!-- Mensagens de Sucesso --> 
+	<string name="success_save_data">Données enregistré avec succés!</string> 
+	<string name="success_send_email">E-mail envoyés avec succés!</string> 
+	<string name="success_update_password">Mot de passe mis á jour avec succés!</string> 
+	<string name="success_update_number">Numéro mis à jour avec succés!</string> 
+	<string name="success_update_email">E-mail mis à jour avec succés!</string> 
+	<string name="success_save_image">Images envoyés avec succés!</string>  
+	<string name="success_update_image">Images mis à jour avec succés!</string>  
+	<string name="success_update_data">Données modifié avec succés!</string>  
+	<string name="token_sent_to_the_email">Token envoyés pour l’e-mail </string>
+
+</resources>
